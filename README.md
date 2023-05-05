@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">Aspiring web developer</h3>
+<h3 align="center">Web software developer mostly focused on backend now</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djchp&label=Profile%20views&color=0e75b6&style=flat" alt="djchp" /> </p>
 
